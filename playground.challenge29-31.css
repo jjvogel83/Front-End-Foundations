@@ -1,0 +1,18 @@
+/*Challenge 29 (Font Family 1)*/
+playground.css
+p {
+  font-family: helvetica, garamond, serif;
+}
+
+
+/*Challenge 30 (Font Family 2)*/
+playground.css
+p {
+  font-family: verdana, "times new roman", sans-serif;
+}
+
+/*Challenge 31 (Font Family 3)*/
+playground.css
+p {
+  font-family: arial, serif, serif;
+}
